@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Cayetano\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Cayetano\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_RayTracer.881399855.00" t="ExcludeRecursive" />
+    <e p="D:\Unity_Projects\RayTracer\RayTracer" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Cordonez" t="Include">
+          <e p="RayTracer" t="Include">
+            <e p="_1_HelloWorld.cs" t="Include" />
+            <e p="_2_3_GradientBackground.cs" t="Include" />
+            <e p="_4_AddingASphere.cs" t="Include" />
+            <e p="_5a_SurfaceNormals.cs" t="Include" />
+            <e p="_5b_MultipleElements.cs" t="Include" />
+            <e p="_6_Antialiasing.cs" t="Include" />
+            <e p="_7_DiffuseMaterials.cs" t="Include" />
+            <e p="_8_Metal.cs" t="Include" />
+            <e p="_9_Dielectrics.cs" t="Include" />
+            <e p="Dielectric.cs" t="Include" />
+            <e p="HitInfo.cs" t="Include" />
+            <e p="IHitable.cs" t="Include" />
+            <e p="Lambertian.cs" t="Include" />
+            <e p="ListExtensions.cs" t="Include" />
+            <e p="Metal.cs" t="Include" />
+            <e p="MyCamera.cs" t="Include" />
+            <e p="MyMaterial.cs" t="Include" />
+            <e p="MyRay.cs" t="Include" />
+            <e p="Sphere.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RayTracer.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
